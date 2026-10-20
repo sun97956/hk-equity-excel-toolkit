@@ -1,6 +1,4 @@
-# hk-equity-excel-toolkit
-hk equity analysis
-HK Equity Analytics Toolkit
+# HK Equity Analytics Toolkit
 Excel + VBA portfolio project  |  Data: Yahoo Finance daily adjusted close, 2 Oct 2025 - 16 Oct 2026 (256 trading days)
 
 What it does
