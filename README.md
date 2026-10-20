@@ -22,10 +22,5 @@ How to verify
 Key functions used
 INDEX/MATCH, OFFSET, SUMPRODUCT, AVERAGEIFS, COUNTIFS, SLOPE, CORREL, STDEV, EOMONTH, RANK, IFERROR, TEXT, data validation, conditional formatting, Excel Table, charts
 
-Build the PivotTable (30 sec)
-Click inside Data > Insert > PivotTable > New sheet. Rows: Month  |  Columns: Ticker  |  Values: Daily Return (Average) and Volume (Sum).
-Add a Slicer on Ticker (PivotTable Analyze > Insert Slicer). Format values as % / #,##0.
 
-Add the macros
-Alt+F11 > File > Import File > StockToolkit.bas  >  save as .xlsm. Run RunFullReport (Alt+F8). Use =MaxDrawdown(Prices!B2:B257) in any cell.
-<img width="1261" height="684" alt="image" src="https://github.com/user-attachments/assets/232c9846-415e-4265-abb8-45420b1160ff" />
+
